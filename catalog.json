@@ -1,0 +1,20 @@
+[
+    {
+        "id": "calc",
+        "name": "Taschenrechner",
+        "author": "Cheetah Devs",
+        "pbId": "T0zKwN1h",
+        "icon": "[C]",
+        "colorName": "lightBlue",
+        "desc": "Ein simpler grafischer Taschenrechner fuer den Alltag."
+    },
+    {
+        "id": "snake",
+        "name": "Snake Game",
+        "author": "CC Community",
+        "pbId": "9Ff2xG4Y",
+        "icon": "[S]",
+        "colorName": "lime",
+        "desc": "Der absolute Klassiker! Spiele Snake direkt in einem Fenster."
+    }
+]
