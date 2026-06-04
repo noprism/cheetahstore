@@ -1,5 +1,5 @@
 {
-    "version": "2.2a",
+    "version": "2.2a1",
     "files": {
         "cheetah/system/kernel.lua": "https://pastebin.com/raw/zC5sJhVE",
         "cheetah/apps/explorer.lua": "https://pastebin.com/raw/vFpAmh27",
