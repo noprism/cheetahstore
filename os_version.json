@@ -10,6 +10,7 @@
         "cheetah/apps/settings.lua":  "https://pastebin.com/raw/jE3UKRP3",
         "cheetah/apps/studio.lua":  "https://pastebin.com/raw/7HQBb4Jm",
         "cheetah/apps/taskmgr.lua":  "https://pastebin.com/raw/GPcReHXg",
-        "cheetah/apps/terminal.lua":  "https://pastebin.com/raw/R17mkpfk"
+        "cheetah/apps/terminal.lua":  "https://pastebin.com/raw/R17mkpfk",
+        "startup.lua":  "https://pastebin.com/raw/jUPEA2Q7",
     }
 }
