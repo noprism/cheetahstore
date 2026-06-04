@@ -7,5 +7,15 @@
         "icon": "[SN]",
         "colorName": "lightBlue",
         "desc": "A simple Snake Game for Cheetah OS"
+    },
+    
+    {
+        "id": "cnetd",
+        "name": "CNET DNS Server",
+        "author": "CNET Foundation",
+        "pbId": "wKGnz6wY",
+        "icon": "CNET-D",
+        "colorName": "red",
+        "desc": "A "ready to host" CNET DNS Server for Cheetah OS, requires Cheetah OS 3 to function."
     }
 ]
