@@ -1,15 +1,15 @@
 {
     "version": "2.1",
     "files": {
-        "kernel": "https://pastebin.com/raw/zC5sJhVE",
-        "explorer": "https://pastebin.com/raw/vFpAmh27",
-        "updater":  "https://pastebin.com/raw/ccRRkLur",
-        "appstore":  "https://pastebin.com/raw/Sjh1qRUF",
-        "chat":  "https://pastebin.com/raw/Xr2nUDBJ",
-        "help":  "https://pastebin.com/raw/zDpArPqF",
-        "settings":  "https://pastebin.com/raw/jE3UKRP3",
-        "studio":  "https://pastebin.com/raw/7HQBb4Jm",
-        "taskmgr":  "https://pastebin.com/raw/GPcReHXg",
-        "terminal":  "https://pastebin.com/raw/R17mkpfk"
+        "cheetah/system/kernel.lua": "https://pastebin.com/raw/zC5sJhVE",
+        "cheetah/apps/explorer.lua": "https://pastebin.com/raw/vFpAmh27",
+        "cheetah/system/updater.lua":  "https://pastebin.com/raw/ccRRkLur",
+        "cheetah/apps/appstore.lua":  "https://pastebin.com/raw/Sjh1qRUF",
+        "cheetah/apps/chat.lua":  "https://pastebin.com/raw/Xr2nUDBJ",
+        "cheetah/apps/help.lua":  "https://pastebin.com/raw/zDpArPqF",
+        "cheetah/apps/settings.lua":  "https://pastebin.com/raw/jE3UKRP3",
+        "cheetah/apps/studio.lua":  "https://pastebin.com/raw/7HQBb4Jm",
+        "cheetah/apps/taskmgr.lua":  "https://pastebin.com/raw/GPcReHXg",
+        "cheetah/apps/terminal.lua":  "https://pastebin.com/raw/R17mkpfk"
     }
 }
