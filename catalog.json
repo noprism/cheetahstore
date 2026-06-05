@@ -17,5 +17,15 @@
         "icon": "CNET-D",
         "colorName": "red",
         "desc": "A 'ready to host' CNET DNS Server for Cheetah OS, requires Cheetah OS 3 to function."
+    },
+
+        {
+        "id": "cnet",
+        "name": "The CNET Browser",
+        "author": "CNET Foundation",
+        "pbId": "me0x0Yga",
+        "icon": "[CNET]",
+        "colorName": "violet",
+        "desc": "A simple Snake Game for Cheetah OS"
     }
 ]
