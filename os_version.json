@@ -1,5 +1,5 @@
 {
-    "version": "3.0",
+    "version": "3.1",
     "files": {
         "cheetah/system/kernel.lua": "https://pastebin.com/raw/zC5sJhVE",
         "cheetah/apps/explorer.lua": "https://pastebin.com/raw/vFpAmh27",
@@ -11,6 +11,7 @@
         "cheetah/apps/studio.lua":  "https://pastebin.com/raw/7HQBb4Jm",
         "cheetah/apps/taskmgr.lua":  "https://pastebin.com/raw/GPcReHXg",
         "cheetah/apps/terminal.lua":  "https://pastebin.com/raw/R17mkpfk",
-        "startup.lua":  "https://pastebin.com/raw/jUPEA2Q7"
+        "startup.lua":  "https://pastebin.com/raw/jUPEA2Q7",
+        "cheetah/apps/defender.lua":   "https://pastebin.com/raw/r7dcwtJB"
     }
 }
